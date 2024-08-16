@@ -17,7 +17,7 @@ Key Features </h2>
   The AI assistant is designed to be intuitive and user-friendly, ensuring that anyone can easily access and utilize its features.</li>
 <li> <caption> Steps :-</caption></li>
 <li> Click on Assistance Sign Visiable on right hand side ...
-<img src= " " , alt= "img"></li>
+<img src= "https://github.com/ichhakumari/ChatBot/blob/main/step1.png" , alt= "img"></li>
 <li> <img src= "" ></li>
 
 <h2> Use Cases</h2>
