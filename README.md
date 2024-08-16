@@ -18,7 +18,8 @@ Key Features </h2>
 <li> <caption> Steps :-</caption></li>
 <li> Click on Assistance Sign Visiable on right hand side ...
 <img src= "https://github.com/ichhakumari/ChatBot/blob/main/step1.png" , alt= "img"></li>
-<li> <img src= "" ></li>
+<li> Now Parivartan is visiable on screen. 
+  <img src= "https://github.com/ichhakumari/ChatBot/blob/main/Step2.png" ></li>
 
 <h2> Use Cases</h2>
 <ul> 
