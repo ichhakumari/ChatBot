@@ -15,6 +15,10 @@ Key Features </h2>
 <h2> How It Works </h2>
 <li> Privartan interacts with users through natural language processing, allowing for seamless conversations. Users can ask questions, request recommendations, or seek guidance on climate-related actions. 
   The AI assistant is designed to be intuitive and user-friendly, ensuring that anyone can easily access and utilize its features.</li>
+<li> <caption> Steps :-</caption></li>
+<li> Click on Assistance Sign Visiable on right hand side ...
+<img src= " " , alt= "img"></li>
+<li> <img src= "" ></li>
 
 <h2> Use Cases</h2>
 <ul> 
